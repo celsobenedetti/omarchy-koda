@@ -4,68 +4,68 @@
 # Use "start", "mid" and "end" for three color gradient
 
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#232A2E"
+theme[main_bg]="#101010"
 
 # Main text color
-theme[main_fg]="#F8F9E8"
+theme[main_fg]="#b0b0b0"
 
-theme[title]="#F8F9E8"
+theme[title]="#b0b0b0"
 
-theme[hi_fg]="#F57F82"
+theme[hi_fg]="#ff7676"
 
-theme[selected_bg]="#374145"
+theme[selected_bg]="#181818"
 
-theme[selected_fg]="#F5D098"
+theme[selected_fg]="#b0b0b0"
 
-theme[inactive_fg]="#232A2E"  
+theme[inactive_fg]="#777777"  
 
-theme[graph_text]="#ADC9BC"
+theme[graph_text]="#b0b0b0"
 
-theme[proc_misc]="#CBE3B3"
+theme[proc_misc]="#86cd82"
 
-theme[cpu_box]="#4A585C"
+theme[cpu_box]="#272727"
 
-theme[mem_box]="#4A585C"
+theme[mem_box]="#272727"
 
-theme[net_box]="#4A585C"
+theme[net_box]="#272727"
 
-theme[proc_box]="#4A585C"
+theme[proc_box]="#272727"
 
-theme[div_line]="#4A585C"
+theme[div_line]="#272727"
 
-theme[temp_start]="#CBE3B3"
-theme[temp_mid]="#F5D098"
-theme[temp_end]="#F57F82"
+theme[temp_start]="#86cd82"
+theme[temp_mid]="#d9ba73"
+theme[temp_end]="#ff7676"
 
-theme[cpu_start]="#CBE3B3"
-theme[cpu_mid]="#F5D098"
-theme[cpu_end]="#F57F82"
+theme[cpu_start]="#86cd82"
+theme[cpu_mid]="#d9ba73"
+theme[cpu_end]="#ff7676"
 
-theme[free_start]="#F57F82"
-theme[free_mid]="#F5D098"
-theme[free_end]="#CBE3B3"
+theme[free_start]="#ff7676"
+theme[free_mid]="#d9ba73"
+theme[free_end]="#86cd82"
 
-theme[cached_start]="#B3E3CA"
-theme[cached_mid]="#DBE6AF"
-theme[cached_end]="#CBE3B3"
+theme[cached_start]="#86cd82"
+theme[cached_mid]="#d9ba73"
+theme[cached_end]="#86cd82"
 
-theme[available_start]="#F57F82"
-theme[available_mid]="#F5D098"
-theme[available_end]="#CBE3B3"
+theme[available_start]="#ff7676"
+theme[available_mid]="#d9ba73"
+theme[available_end]="#86cd82"
 
-theme[used_start]="#CBE3B3"
-theme[used_mid]="#F5D098"
-theme[used_end]="#F57F82"
+theme[used_start]="#86cd82"
+theme[used_mid]="#d9ba73"
+theme[used_end]="#ff7676"
 
-theme[download_start]="#CBE3B3"
-theme[download_mid]="#DBE6AF"
-theme[download_end]="#B3E3CA"
+theme[download_start]="#86cd82"
+theme[download_mid]="#d9ba73"
+theme[download_end]="#86cd82"
 
-theme[upload_start]="#F5D098"
-theme[upload_mid]="#F7A182"
-theme[upload_end]="#F57F82"
+theme[upload_start]="#d9ba73"
+theme[upload_mid]="#ff7676"
+theme[upload_end]="#ff7676"
 
-theme[process_start]="#CBE3B3"
-theme[process_mid]="#F57F82"
-theme[process_end]="#F57F82"
+theme[process_start]="#86cd82"
+theme[process_mid]="#ff7676"
+theme[process_end]="#ff7676"
 
