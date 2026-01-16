@@ -43,6 +43,7 @@
 - kitty.conf: Updated foreground, background, cursor, tabs, palette
 - alacritty.toml: Updated primary, cursor, search, hints, selection, palette
 - ghostty.conf: Updated palette, background, foreground, cursor, selection
+- obsidian.css: Updated all CSS variables and hardcoded colors to palette
 
 ## Files Not Updated
 - neovim.lua: Uses evergarden theme, not directly configurable with palette
